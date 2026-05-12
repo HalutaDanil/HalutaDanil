@@ -1,10 +1,6 @@
 <div align="center">
 
-<!-- Спокойное приветствие -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=2000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hi,+I'm+Danil+Haluta;DevOps+Engineer;Go+%7C+Python+%7C+Linux;Building+reliable+infrastructure)](https://git.io/typing-svg)
-
-<!-- Спокойный градиентный баннер -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:21262d&height=120&section=header&text=&fontSize=1"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=3000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hi,+I'm+Danil+Haluta;DevOps+Engineer;Go+%7C+Python+%7C+Linux;Building+reliable+infrastructure)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,7 +19,7 @@ type DevOpsEngineer struct {
 }
 
 func (d DevOpsEngineer) Introduce() {
-    fmt.Printf("I'm %s, a %s from %s.\n", d.Name, d.Role, d.Location)
+    fmt.Printf("I'm %s, a %s.\n", d.Name, d.Role)
     fmt.Printf("Passionate about %s\n", d.Focus)
 }
 
@@ -38,7 +34,7 @@ func main() {
 }
 ```
 
-> I enjoy understanding systems end-to-end — from application code to production infrastructure. 
+> I enjoy understanding systems end-to-end — from application code to production infrastructure.
 > I learn fast, handle high-load environments, automate routine tasks, and drive processes to stable, repeatable states.
 > Open to feedback and focused on delivering results.
 
@@ -51,7 +47,13 @@ func main() {
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Systems & Networking**
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 **Containers & Orchestration**
 
@@ -63,26 +65,12 @@ func main() {
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
-**Databases & Tools**
+**Databases, Tools & CI/CD**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HalutaDanil&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalutaDanil&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HalutaDanil&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" height="170"/>
 
 </div>
 
@@ -92,6 +80,14 @@ func main() {
 
 <table>
 <tr>
+<td width="33%" valign="top">
+
+### 🤖 Automation
+
+[**Schedule Bot**](https://github.com/HalutaDanil/Schedule-bot)  
+Telegram bot for tutors: auto-scheduling, material delivery, link management via Google Sheets integration
+
+</td>
 <td width="33%" valign="top">
 
 ### 🐍 Python
@@ -105,7 +101,7 @@ Multiprocessing simulation with real-time monitoring
 </td>
 <td width="33%" valign="top">
 
-### 🐘 SQL & Databases
+### 🐘 Databases
 
 [**sql-basics**](https://github.com/HalutaDanil/sql-basics)  
 Relational database fundamentals
@@ -120,6 +116,8 @@ Query performance & index tuning
 PL/pgSQL, triggers & stored procedures
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 
 ### 🐧 Linux & DevOps
@@ -134,16 +132,19 @@ Network topology, DHCP, NAT, firewall
 Grafana dashboards & Prometheus metrics
 
 </td>
+<td width="33%" valign="top">
+
+### 🤖 AI Workflows
+
+[**ai-agent-workflows**](https://github.com/HalutaDanil/ai-agent-workflows)  
+AI automation workflows with n8n and LLM integration
+
+</td>
+<td width="33%" valign="top">
+
+</td>
 </tr>
 </table>
-
-</div>
-
-## 📈 Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HalutaDanil&bg_color=0d1117&color=58a6ff&line=30363d&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -154,7 +155,6 @@ Grafana dashboards & Prometheus metrics
 [![Email](https://img.shields.io/badge/danil@khaliuta.ru-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danil@khaliuta.ru)
 [![Telegram](https://img.shields.io/badge/@khaliutadanil-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/khaliutadanil)
 [![GitHub](https://img.shields.io/badge/HalutaDanil-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HalutaDanil)
-[![Phone](https://img.shields.io/badge/+7_(915)_528--51--90-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+79155285190)
 
 </div>
 
