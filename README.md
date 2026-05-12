@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=3000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hi,+I'm+Danil+Haluta;DevOps+Engineer;Go+%7C+Python+%7C+Linux;Building+reliable+infrastructure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=3000&color=58A6FF&center=true&vCenter=true&width=450&lines=Hi,+I'm+Danil+Haluta;DevOps+Engineer)](https://git.io/typing-svg)
 
 <!-- Статичные DevOps иконки -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" alt="Linux"/>
@@ -85,6 +85,10 @@ func main() {
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
+**Editors**
+
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+
 </div>
 
 <!-- Цветной разделитель -->
@@ -92,7 +96,7 @@ func main() {
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,50:1f6feb,100:0969da&height=3&section=header&text=&fontSize=1"/>
 </div>
 
-## 📁 Featured Projects
+## 📁 Projects
 
 <div align="center">
 
@@ -103,7 +107,7 @@ func main() {
 ### 🤖 Automation
 
 [**Schedule Bot**](https://github.com/HalutaDanil/Schedule-bot)  
-Telegram bot for tutors: auto-scheduling, material delivery, link management via Google Sheets integration
+Telegram bot for tutors: scheduling, materials, links via Google Sheets
 
 </td>
 <td width="33%" valign="top">
@@ -111,43 +115,75 @@ Telegram bot for tutors: auto-scheduling, material delivery, link management via
 ### 🐍 Python
 
 [**python-basics-1**](https://github.com/HalutaDanil/python-basics-1)  
-Algorithmic tasks & language fundamentals
+10 algorithmic tasks: vectors, palindromes, DP, parsers
 
 [**python-basics-2**](https://github.com/HalutaDanil/python-basics-2)  
-Multiprocessing simulation with real-time monitoring
+Multiprocessing exam simulation with live monitoring
 
 </td>
 <td width="33%" valign="top">
 
-### 🐘 Databases
+### 🐘 SQL — Fundamentals
 
 [**sql-basics**](https://github.com/HalutaDanil/sql-basics)  
-Relational database fundamentals
+SELECT, WHERE, JOIN, aggregates, GROUP BY
 
-[**sql-transaction-isolation**](https://github.com/HalutaDanil/sql-transaction-isolation)  
-ACID, isolation levels & concurrency
+[**sql-data-retrieval-1**](https://github.com/HalutaDanil/sql-data-retrieval-1)  
+All JOIN types, set operations, subqueries
 
-[**sql-index-optimization**](https://github.com/HalutaDanil/sql-index-optimization)  
-Query performance & index tuning
-
-[**sql-triggers-functions**](https://github.com/HalutaDanil/sql-triggers-functions)  
-PL/pgSQL, triggers & stored procedures
+[**sql-data-retrieval-2**](https://github.com/HalutaDanil/sql-data-retrieval-2)  
+Window functions, recursive CTEs, analytics
 
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 
+### 🐘 SQL — Advanced
+
+[**sql-dml-operations**](https://github.com/HalutaDanil/sql-dml-operations)  
+INSERT, UPDATE, DELETE, upsert, transactions
+
+[**sql-views-snapshots**](https://github.com/HalutaDanil/sql-views-snapshots)  
+Views, materialized views, refresh strategies
+
+[**sql-triggers-functions**](https://github.com/HalutaDanil/sql-triggers-functions)  
+PL/pgSQL functions, triggers, cursors
+
+[**sql-transaction-isolation**](https://github.com/HalutaDanil/sql-transaction-isolation)  
+ACID, isolation levels, deadlocks, locks
+
+[**sql-index-optimization**](https://github.com/HalutaDanil/sql-index-optimization)  
+B-tree, Hash, GiST, GIN, BRIN indexes
+
+[**sql-olap-analytics**](https://github.com/HalutaDanil/sql-olap-analytics)  
+ROLLUP, CUBE, PIVOT, window frames
+
+[**sql-advanced-functions**](https://github.com/HalutaDanil/sql-advanced-functions)  
+Dynamic SQL, arrays, JSON, polymorphism
+
+[**sql-traveling-salesman**](https://github.com/HalutaDanil/sql-traveling-salesman)  
+TSP solved with recursive CTEs
+
+[**sql-data-warehouse**](https://github.com/HalutaDanil/sql-data-warehouse)  
+Data warehouse design, SCD, ETL
+
+</td>
+<td width="33%" valign="top">
+
 ### 🐧 Linux & DevOps
 
 [**linux-administration**](https://github.com/HalutaDanil/linux-administration)  
-System administration & user management
+Users, network, packages, editors
 
 [**linux-networking**](https://github.com/HalutaDanil/linux-networking)  
-Network topology, DHCP, NAT, firewall
+DHCP, NAT, firewall, SSH tunneling
+
+[**linux-monitoring-v1**](https://github.com/HalutaDanil/linux-monitoring-v1)  
+Bash scripts for system monitoring
 
 [**linux-monitoring-v2**](https://github.com/HalutaDanil/linux-monitoring-v2)  
-Grafana dashboards & Prometheus metrics
+Grafana + Prometheus dashboards
 
 </td>
 <td width="33%" valign="top">
@@ -155,10 +191,7 @@ Grafana dashboards & Prometheus metrics
 ### 🤖 AI Workflows
 
 [**ai-agent-workflows**](https://github.com/HalutaDanil/ai-agent-workflows)  
-AI automation workflows with n8n and LLM integration
-
-</td>
-<td width="33%" valign="top">
+n8n automation with LLM integration
 
 </td>
 </tr>
