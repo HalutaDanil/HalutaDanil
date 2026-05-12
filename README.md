@@ -96,6 +96,26 @@ func main() {
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,50:1f6feb,100:0969da&height=3&section=header&text=&fontSize=1"/>
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HalutaDanil&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HalutaDanil&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HalutaDanil&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" height="170"/>
+
+</div>
+
+<!-- Цветной разделитель -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,50:1f6feb,100:0969da&height=3&section=header&text=&fontSize=1"/>
+</div>
+
 ## 📁 Projects
 
 <div align="center">
@@ -196,23 +216,6 @@ n8n automation with LLM integration
 </td>
 </tr>
 </table>
-
-</div>
-
-<!-- Цветной разделитель -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,50:1f6feb,100:0969da&height=3&section=header&text=&fontSize=1"/>
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Repos](https://img.shields.io/badge/Public%20Repos-20-58a6ff?style=flat-square&logo=github&logoColor=white)
-![Go](https://img.shields.io/badge/Go%20Projects-1-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python%20Projects-2-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL%20Projects-11-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux%20Projects-4-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
